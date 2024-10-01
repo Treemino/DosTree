@@ -1,0 +1,2 @@
+# pateljii.py
+TOKEN = "7206670946:AAEFA-RIjYNjdRbPRtFZCVApxMMgXHJsJ0E"
